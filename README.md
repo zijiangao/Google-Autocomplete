@@ -9,7 +9,7 @@ simple single page that use Google Place Autocomplete to find places and show at
 
 ## Configure app
 
-Open `env` then add in your google api key. You will need to enable the following APIs & Services:
+Add `.env` file then add in your google api key, follow the env.sample provided. You will need to enable the following google APIs & Services:
 
 - Places API
 - Geocoding API	
