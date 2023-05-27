@@ -7,7 +7,6 @@ import SearchHistory from "../components/SearchHistory";
 const Home = () => {
   return (
     <div>
-      <h1>Google Place Autocomplete</h1>
       <Map />
       <SearchHistory />
     </div>
