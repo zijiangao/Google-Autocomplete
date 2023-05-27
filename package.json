@@ -1,0 +1,28 @@
+{
+  "name": "map-app-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@react-google-maps/api": "^2.18.1",
+    "@reduxjs/toolkit": "^1.9.5",
+    "antd": "^5.5.1",
+    "axios": "^1.4.0",
+    "next": "^13.4.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^8.0.5",
+    "redux": "^4.2.1",
+    "redux-thunk": "^2.4.2",
+    "use-places-autocomplete": "^4.0.0"
+  }
+}
