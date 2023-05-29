@@ -3,7 +3,7 @@ simple single page that use Google Place Autocomplete to find places and show at
 
 ## Install
 
-    $ git clone [https://github.com/zijiangao/Google-Autocomplete.git]
+    $ git clone https://github.com/zijiangao/Google-Autocomplete.git
     $ cd Google-Autocomplete
     $ npm install
 
